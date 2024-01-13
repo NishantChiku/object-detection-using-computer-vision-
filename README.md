@@ -46,26 +46,6 @@ This parameter controls the size of the dilation kernel used for the mask. The r
 ![](results/surf.gif)
 ---
 
-## Acknowledgement
-- This repo is based on [SiamMask](https://github.com/foolwood/SiamMask) and [Deep-Video-Inpainting](https://github.com/mcahny/Deep-Video-Inpainting). Many thanks to the excellent repo.
-
-## Citation
-```
-@article{Wang2019SiamMask,
-    title={Fast Online Object Tracking and Segmentation: A Unifying Approach},
-    author={Wang, Qiang and Zhang, Li and Bertinetto, Luca and Hu, Weiming and Torr, Philip HS},
-    journal={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2019}
-}
-```
-```bibtex
-@inproceedings{kim2019deep,
-  title={Deep Video Inpainting},
-  author={Kim, Dahun and Woo, Sanghyun and Lee, Joon-Young and So Kweon, In},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={5792--5801},
-  year={2019}
-```
 
 
 
